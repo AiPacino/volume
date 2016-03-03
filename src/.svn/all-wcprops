@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/a/eclipselabs.org/ia369e/!svn/ver/188/VMTK_QT/src
+END
+moc_QTMainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/moc_QTMainWindow.cpp
+END
+VMTK_QT.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/VMTK_QT.pro
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/main.cpp
+END
+moc_GLWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/moc_GLWidget.cpp
+END
+qmake.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/qmake.sh
+END
+moc_QTWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/moc_QTWindow.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/a/eclipselabs.org/ia369e/!svn/ver/186/VMTK_QT/src/Makefile
+END
